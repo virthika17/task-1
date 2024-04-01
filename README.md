@@ -1,5 +1,4 @@
 # task-1
-[7:46 PM, 4/1/2024] Varshini M: <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
