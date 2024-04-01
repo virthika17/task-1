@@ -19,7 +19,7 @@
     <div class="cell" onclick="cellClicked(6)"></div>
     <div class="cell" onclick="cellClicked(7)"></div>
     <div class="cell" …
-[7:47 PM, 4/1/2024] Varshini M: let currentPlayer = 'X';
+[7:47 PM, 4/1/2024] virthika B: let currentPlayer = 'X';
 let board = ['', '', '', '', '', '', '', '', ''];
 const winningCombos = [
   [0, 1, 2],
