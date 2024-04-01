@@ -46,7 +46,7 @@ function cellClicked(index) {
     } else {
       currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
       message.textContent = Player ${currentPlayer}'s turn;…
-[7:48 PM, 4/1/2024] Varshini M: .container {
+[7:48 PM, 4/1/2024] Virthika B: .container {
   text-align: center;
 }
 
